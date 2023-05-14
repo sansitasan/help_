@@ -1,0 +1,33 @@
+{
+  "talkname": [
+    "<color=#1D64AA>칸나",
+    "<color=#999400>강지"
+  ],
+
+  "data": [
+    {
+      "nameNstate": [
+        0,
+        3
+      ],
+      "name": "<color=#1D64AA>칸나",
+      "dialog": "사장님... 전혀 모르겠어요... 저 그냥 먹을게요..."
+    },
+    {
+      "nameNstate": [
+        1,
+        0
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "칸나야 미안... 다시 시켜줄게!"
+    },
+    {
+      "nameNstate": [
+        0,
+        3
+      ],
+      "name": "<color=#1D64AA>칸나",
+      "dialog": "아니에요 배불러요..."
+    }
+  ]
+}

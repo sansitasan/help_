@@ -1,0 +1,137 @@
+{
+  "talkname": [
+    "<color=#1D64AA>칸나",
+    "<color=#999400>강지"
+  ],
+
+  "data": [
+    {
+      "nameNstate": [
+        0, 
+        3
+      ],
+      "name": "<color=#1D64AA>칸나",
+      "dialog": "사장님..."
+    },
+    {
+      "nameNstate": [
+        1,
+        0
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "어~"
+    },
+    {
+      "nameNstate": [
+        0,
+        3
+      ],
+      "name": "<color=#1D64AA>칸나",
+      "dialog": "저 배민 시켰는데여... <color=#ff0000>음료<color=#000000>가 잘못왔어요..."
+    },
+    {
+      "nameNstate": [
+        1,
+        0
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "뭐 왔는데?"
+    },
+    {
+      "nameNstate": [
+        0,
+        3
+      ],
+      "name": "<color=#1D64AA>칸나",
+      "dialog": "저 카페인이 너무 많은 거 못 먹잖아요... 그런데 아이스 아메리카노가 왔어요."
+    },
+    {
+      "nameNstate": [
+        1,
+        0
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "슬퍼 그래서?"
+    },
+    {
+      "nameNstate": [
+        0,
+        1
+      ],
+      "name": "<color=#1D64AA>칸나",
+      "dialog": "우울증 걸릴 것 같아요..."
+    },
+    {
+      "nameNstate": [
+        1,
+        1
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "우는 거 아니지?ㅋㅋㅋ"
+    },
+    {
+      "nameNstate": [
+        0,
+        3
+      ],
+      "name": "<color=#1D64AA>칸나",
+      "dialog": "사쵸 전화 못하겠어요... 무서워요..."
+    },
+    {
+      "nameNstate": [
+        1,
+        0
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "번호 알려줘. 내가 전화해줄게."
+    },
+    {
+      "nameNstate": [
+        0,
+        0
+      ],
+      "name": "<color=#1D64AA>칸나",
+      "dialog": "사쵸 근데요..."
+    },
+    {
+      "nameNstate": [
+        1,
+        0
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "어 왜?"
+    },
+    {
+      "nameNstate": [
+        0,
+        3
+      ],
+      "name": "<color=#1D64AA>칸나",
+      "dialog": "제가 뭘 시켰었는지 까먹었어요... 제가 시킨게 <color=#ff0000>커피류가 아닌<color=#000000>것만 기억나요..."
+    },
+    {
+      "nameNstate": [
+        1,
+        1
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "칸나야아아! 대체 그게 무슨 소리니? ㅋㅋㅋㅋ"
+    },
+    {
+      "nameNstate": [
+        0,
+        1
+      ],
+      "name": "<color=#1D64AA>칸나",
+      "dialog": "그냥 먹을게요..."
+    },
+    {
+      "nameNstate": [
+        1,
+        0
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "칸나야! 그럼 뭐 시켰는지 생각나게 해볼까?"
+    }
+  ]
+}

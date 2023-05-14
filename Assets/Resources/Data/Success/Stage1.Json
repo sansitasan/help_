@@ -1,0 +1,65 @@
+{
+  "talkname": [
+    "<color=#1D64AA>칸나",
+    "<color=#999400>강지"
+  ],
+
+  "data": [
+    {
+      "nameNstate": [
+        0,
+        1
+      ],
+      "name": "<color=#1D64AA>칸나",
+      "dialog": "맞아요! 저 그거 시켰어요!"
+    },
+    {
+      "nameNstate": [
+        1,
+        0
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "에휴... 칸나야 그럼 전화하러 간다?"
+    },
+    {
+      "nameNstate": [
+        0,
+        0
+      ],
+      "name": "<color=#1D64AA>칸나",
+      "dialog": "네 사장님 잘 먹을게요~"
+    },
+    {
+      "nameNstate": [
+        1,
+        0
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "칸나야 이번 달에 그 후..."
+    },
+    {
+      "nameNstate": [
+        0,
+        0
+      ],
+      "name": "<color=#1D64AA>칸나",
+      "dialog": "사장님 방송중이에요!"
+    },
+    {
+      "nameNstate": [
+        1,
+        0
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "아 죄송합니다~"
+    },
+    {
+      "nameNstate": [
+        2,
+        1
+      ],
+      "name": "<color=#1D64AA>칸나 <color=#000000>& <color=#999400>강지",
+      "dialog": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "talkname": [
+    "<color=#d070fb>유니",
+    "<color=#999400>강지"
+  ],
+
+  "data": [
+    {
+      "nameNstate": [
+        0,
+        1
+      ],
+      "name": "<color=#d070fb>유니",
+      "dialog": "사쵸!! 유니 방송 끝났어!"
+    },
+    {
+      "nameNstate": [
+        1,
+        0
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "어~ 수고했어~"
+    },
+    {
+      "nameNstate": [
+        0,
+        0
+      ],
+      "name": "<color=#d070fb>유니",
+      "dialog": "오늘 스페이스 켜도 돼요?"
+    },
+    {
+      "nameNstate": [
+        1,
+        0
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "스페이스? 어 그래 해~"
+    },
+    {
+      "nameNstate": [
+        0,
+        0
+      ],
+      "name": "<color=#d070fb>유니",
+      "dialog": "유니 스페이스 키고 아르냥하고 <color=#ff0000>애니메이션<color=#000000> 같이 봐도 돼요?"
+    },
+    {
+      "nameNstate": [
+        1,
+        0
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "애니? 뭐 보려고??"
+    },
+    {
+      "nameNstate": [
+        0,
+        0
+      ],
+      "name": "<color=#d070fb>유니",
+      "dialog": "어... 유니 기억이 안 나! <color=#ff0000>엄청 유명한 애니메이션<color=#000000>이었는데... 공지 쓰기로 했는데 르냥 기다리고 있어! 사쵸가 알려줘! 파딱파딱~~"
+    },
+    {
+      "nameNstate": [
+        1,
+        1
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "유니야!! 맨날 까먹고 나한테 물어보면 어떻게 할까??"
+    },
+    {
+      "nameNstate": [
+        0,
+        1
+      ],
+      "name": "<color=#d070fb>유니",
+      "dialog": "미안해 사쵸~~ 유니 기여우니까 욘~서?"
+    },
+    {
+      "nameNstate": [
+        1,
+        0
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "그럼 내가 알아 맞춰 볼까?"
+    },
+    {
+      "nameNstate": [
+        0,
+        0
+      ],
+      "name": "<color=#d070fb>유니",
+      "dialog": "사쵸가 유니 지켜줘~"
+    }
+  ]
+}

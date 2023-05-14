@@ -1,0 +1,89 @@
+{
+  "talkname": [
+    "<color=#d070fb>유니",
+    "<color=#999400>강지"
+  ],
+
+  "data": [
+    {
+      "nameNstate": [
+        0,
+        1
+      ],
+      "name": "<color=#d070fb>유니",
+      "dialog": "사쵸 바나나~ 사쵸 집에서 평생 살고 싶다~"
+    },
+    {
+      "nameNstate": [
+        1,
+        0
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "안 돼. 짐 왔으니까 이제 나가서 살아야지."
+    },
+    {
+      "nameNstate": [
+        0,
+        0
+      ],
+      "name": "<color=#d070fb>유니",
+      "dialog": "그러면 사잔님... 유니 이제 내일 나가는데 맛있는 거 사주면 안 돼?"
+    },
+    {
+      "nameNstate": [
+        1,
+        0
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "어~ 먹고 싶은 거 말해 봐 아가씨."
+    },
+    {
+      "nameNstate": [
+        0,
+        0
+      ],
+      "name": "<color=#d070fb>유니",
+      "dialog": "나 머그꼬 싶은 거 있는데 한구꾸어로 뭔지 기억이 안 나... <color=#ff0000>음식<color=#000000>이름이 뭐였더라?"
+    },
+    {
+      "nameNstate": [
+        0,
+        0
+      ],
+      "name": "<color=#d070fb>유니",
+      "dialog": "사잔님 저번처럼 유니 마음 알아서 알려주면 안 돼? <color=#ff0000>한구꾸 음식<color=#000000>이었는데..."
+    },
+    {
+      "nameNstate": [
+        1,
+        1
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "유니야!! 나 없으면 어떻게 살려구 진짜!"
+    },
+    {
+      "nameNstate": [
+        0,
+        1
+      ],
+      "name": "<color=#d070fb>유니",
+      "dialog": "유니 귀여우니까 한 번만~~ 유니가 애교 부릴게~~"
+    },
+    {
+      "nameNstate": [
+        1,
+        1
+      ],
+      "name": "<color=#999400>강지",
+      "dialog": "알겠어. 이번이 마지막이야!"
+    },
+    {
+      "nameNstate": [
+        0,
+        1
+      ],
+      "name": "<color=#d070fb>유니",
+      "dialog": "사쵸 그거해~~"
+    }
+  ]
+}
