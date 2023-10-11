@@ -1,0 +1,189 @@
+{
+  "talkname": [
+    "<color=#D1F1FF>타비",
+    "<color=#8BC3E7>뿡댕이"
+  ],
+
+  "data": [
+    {
+      "nameNstate": [
+        1,
+        3,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "타비야~ 윽 머리가…"
+    },
+    {
+      "nameNstate": [
+        0,
+        0,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "응 왜 뿡댕아?"
+    },
+    {
+      "nameNstate": [
+        1,
+        3,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "여기가 어디지?"
+    },
+    {
+      "nameNstate": [
+        0,
+        3,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "뭐야 왜그래? 기억상실이야…?"
+    },
+    {
+      "nameNstate": [
+        1,
+        3,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "모르겠어… 분명 타비가 이긴다에 걸었던 것 까지는 기억하는데…"
+    },
+    {
+      "nameNstate": [
+        0,
+        3,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "아… 내… 내가 미안해…"
+    },
+    {
+      "nameNstate": [
+        1,
+        0,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "아냐 괜찮아… 근데 옆에 이 음료수는 뭐지?"
+    },
+    {
+      "nameNstate": [
+        0,
+        1,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "응? 나 주려고 사온거야?"
+    },
+    {
+      "nameNstate": [
+        1,
+        1,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "어 맞아! 거기 까진 기억나!"
+    },
+    {
+      "nameNstate": [
+        0,
+        1,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "와! 고마워 뿡댕아!! 잘마실게! 근데 무슨 음료수야?"
+    },
+    {
+      "nameNstate": [
+        1,
+        3,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "어… 근데 이게 무슨 음료수인지 기억이 안나… 하필 텀블러도 까매서 뭔지 모르겠어."
+    },
+    {
+      "nameNstate": [
+        0,
+        0,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "그래? 그럼 그냥 마셔볼까?"
+    },
+    {
+      "nameNstate": [
+        1,
+        3,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "아니야, 타비 입맛 까다롭잖아! 그냥 다시 사올게…"
+    },
+    {
+      "nameNstate": [
+        0,
+        0,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "아니야 뿡댕아! 이 향은…"
+    },
+    {
+      "nameNstate": [
+        0,
+        1,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "<color=#FF0000>구론산<color=#000000>이다! 고마워!!"
+    },
+    {
+      "nameNstate": [
+        1,
+        1,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "다행이네… 잘 마셔 타비야!"
+    },
+    {
+      "nameNstate": [
+        0,
+        0,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "잠깐만 뿡댕아!"
+    },
+    {
+      "nameNstate": [
+        0,
+        0,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "뿡댕이는 도박으로 기억을 곧잘 잃어버리니까, 이 음료수가 <color=#FF0000>구론산<color=#000000>인 것을 모른다 생각하고 내 질문에 대답해볼래?"
+    },
+    {
+      "nameNstate": [
+        0,
+        0,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "이 질답이 익숙해지면 뿡댕이가 기억을 잃어버려도 내가 답을 찾아주기 수월해지니까 연습 겸 해서 말이야. 어때?"
+    },
+    {
+      "nameNstate": [
+        1,
+        1,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "그래! 답은 <color=#FF0000>구론산<color=#000000>인 것을 기억하고 한 번 해보자!"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "talkname": [
+    "<color=#D1F1FF>타비",
+    "<color=#8BC3E7>뿡댕이"
+  ],
+
+  "data": [
+    {
+      "nameNstate": [
+        1,
+        0,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "도저히 기억이 안나 타비야…"
+    },
+    {
+      "nameNstate": [
+        0,
+        0,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "그냥 출발하자! 어떻게든 되겠지!"
+    },
+    {
+      "nameNstate": [
+        1,
+        0,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "괜찮을까 이거…"
+    },
+    {
+      "nameNstate": [
+        3,
+        0,
+        1
+      ],
+      "name": "",
+      "dialog": "(4시간 후...)"
+    },
+    {
+      "nameNstate": [
+        2,
+        0,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비 <color=#FFFFFF>& <color=#8BC3E7>뿡댕이",
+      "dialog": "또야ㅏㅏㅏㅏㅏ!"
+    }
+  ]
+}

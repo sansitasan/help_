@@ -1,0 +1,117 @@
+{
+  "talkname": [
+    "<color=#D1F1FF>타비",
+    "<color=#8BC3E7>뿡댕이"
+  ],
+
+  "data": [
+    {
+      "nameNstate": [
+        1,
+        2,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "드디어 떨어지는게 끝났네… 타비야 괜찮아?"
+    },
+    {
+      "nameNstate": [
+        0,
+        3,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "내… 내 노력과 시간이…"
+    },
+    {
+      "nameNstate": [
+        1,
+        2,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "ㅋㅋㅋ 그러니까 조심 했어야지!"
+    },
+    {
+      "nameNstate": [
+        0,
+        2,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "야! 그게 나 때문은 아니잖아! 짜증나 진짜…"
+    },
+    {
+      "nameNstate": [
+        1,
+        0,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "아무튼 다시 올라가야지. 아까 떨어진 이유만 복습하면 괜찮을 거야!"
+    },
+    {
+      "nameNstate": [
+        0,
+        0,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "그러니까… 설마 그 구간이 복병이었을 줄이야…"
+    },
+    {
+      "nameNstate": [
+        1,
+        3,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "맞아 그 구간… 잠깐… 그게 어디더라?"
+    },
+    {
+      "nameNstate": [
+        0,
+        3,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "그게… 그러니까 무슨 <color=#FF0000>동물<color=#000000>이 있었던 것 같은데…"
+    },
+    {
+      "nameNstate": [
+        1,
+        3,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "너무 높이서 떨어져서 기억이 안 나… 타비야… 어쩌지?"
+    },
+    {
+      "nameNstate": [
+        0,
+        0,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "그러게… 그 부분은 모르면 당해야 하는 것 같던데…"
+    },
+    {
+      "nameNstate": [
+        1,
+        0,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "음… 그러면 기억해낸 다음에 출발해볼까?"
+    },
+    {
+      "nameNstate": [
+        0,
+        1,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "그래! 같이 떠올려내고 출발하자!"
+    }
+  ]
+}

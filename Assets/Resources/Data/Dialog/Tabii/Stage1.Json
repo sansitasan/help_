@@ -1,0 +1,153 @@
+{
+  "talkname": [
+    "<color=#D1F1FF>타비",
+    "<color=#8BC3E7>뿡댕이"
+  ],
+
+  "data": [
+    {
+      "nameNstate": [
+        1,
+        3,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "헉헉… 이제 더 이상 안 쫓아오는 것 같아…"
+    },
+    {
+      "nameNstate": [
+        0,
+        3,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "나 너무 무서웠어 뿡댕아ㅠㅠ"
+    },
+    {
+      "nameNstate": [
+        1,
+        3,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "정신없이 도망치느라 자석 떨어지는 줄 알았어…"
+    },
+    {
+      "nameNstate": [
+        0,
+        3,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "그거 떨어지기도 하는 거였어? 뿡댕이 미인 기준이 자석 크기인데 없으면… 흠…"
+    },
+    {
+      "nameNstate": [
+        1,
+        3,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "말이 그렇다는거지… 어?!!"
+    },
+    {
+      "nameNstate": [
+        0,
+        3,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "꺄아아악!!! 뭔데 뭔데!!!"
+    },
+    {
+      "nameNstate": [
+        1,
+        0,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "도망치면서 <color=#FF0000>간식<color=#000000>을 흘리고 온 것 같아…"
+    },
+    {
+      "nameNstate": [
+        0,
+        3,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "깜짝이야! 놀랐잖아 뿡댕아… <color=#FF0000>간식<color=#000000> 때문에 그렇게 호들갑이었어?"
+    },
+    {
+      "nameNstate": [
+        1,
+        2,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "<color=#FF0000>간식<color=#000000>은 중대사항이거든? 아까 주방에서 흘린 것 같아… 다시 가볼까?"
+    },
+    {
+      "nameNstate": [
+        0,
+        3,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "무서운데… 앞장 서 뿡댕아! 너 때문에 가는거잖아!!"
+    },
+    {
+      "nameNstate": [
+        1,
+        3,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "여긴데… 무서워서 <color=#FF0000>간식<color=#000000>이 뭐였는지 까먹었어…"
+    },
+    {
+      "nameNstate": [
+        0,
+        3,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "곤란하네… 주방이라 여러가지가 있긴 한데 아무거나 먹기도 곤란하고"
+    },
+    {
+      "nameNstate": [
+        1,
+        3,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "미안해… 그냥 가자. 배가 고프긴 한데… "
+    },
+    {
+      "nameNstate": [
+        3,
+        3,
+        0
+      ],
+      "name": "",
+      "dialog": "(꼬르르르르르륵)"
+    },
+    {
+      "nameNstate": [
+        1,
+        3,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "…"
+    },
+    {
+      "nameNstate": [
+        0,
+        0,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "어쩔 수 없네… 그럼 빨리 떠올려내고 <color=#FF0000>간식<color=#000000>을 챙겨서 여길 나가자!"
+    }
+  ]
+}

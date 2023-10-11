@@ -1,0 +1,108 @@
+{
+  "talkname": [
+    "<color=#D1F1FF>타비",
+    "<color=#8BC3E7>뿡댕이"
+  ],
+
+  "data": [
+    {
+      "nameNstate": [
+        0,
+        1,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "그래 이거야! 고생했어 뿡댕아~"
+    },
+    {
+      "nameNstate": [
+        1,
+        1,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "타비도 고생했어!!"
+    },
+    {
+      "nameNstate": [
+        1,
+        3,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "근데 타비야…"
+    },
+    {
+      "nameNstate": [
+        1,
+        3,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "왜 또 방어를 해? 방금 킬각이었잖아!!"
+    },
+    {
+      "nameNstate": [
+        0,
+        1,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "나 좀 믿어봐! 나 게임 잘하잖아~"
+    },
+    {
+      "nameNstate": [
+        2,
+        3,
+        0
+      ],
+      "name": "",
+      "dialog": "<color=#FF0000><size=48>                        패배<size=20><color=#000000>"
+    },
+    {
+      "nameNstate": [
+        0,
+        3,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "저… 그… 뿡댕아…?"
+    },
+    {
+      "nameNstate": [
+        0,
+        1,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "귀여우니까 한 번만 봐주세요 봐주라잉~…"
+    },
+    {
+      "nameNstate": [
+        1,
+        3,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "윽… 머리가…"
+    },
+    {
+      "nameNstate": [
+        1,
+        0,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "어? 타비 손에 든 건 뭐야?"
+    },
+    {
+      "nameNstate": [
+        0,
+        3,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "미… 미안…"
+    }
+  ]
+}

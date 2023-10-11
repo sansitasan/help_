@@ -1,0 +1,72 @@
+{
+  "talkname": [
+    "<color=#D1F1FF>타비",
+    "<color=#8BC3E7>뿡댕이"
+  ],
+
+  "data": [
+    {
+      "nameNstate": [
+        1,
+        1,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "맞아 그거였어!"
+    },
+    {
+      "nameNstate": [
+        0,
+        1,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "히히 그럼 이제 다시 출발해볼까!"
+    },
+    {
+      "nameNstate": [
+        3,
+        -1,
+        2
+      ],
+      "name": "",
+      "dialog": "(4시간 후...)"
+    },
+    {
+      "nameNstate": [
+        1,
+        1,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "드디어 끝이다!!"
+    },
+    {
+      "nameNstate": [
+        0,
+        0,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "으아앙 나 진짜 힘들었어 뿡댕아ㅠㅠ"
+    },
+    {
+      "nameNstate": [
+        1,
+        1,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "고생했어 타비야! 그럼 이제… 알지?"
+    },
+    {
+      "nameNstate": [
+        0,
+        1,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "달 을 가!"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "talkname": [
+    "<color=#D1F1FF>타비",
+    "<color=#8BC3E7>뿡댕이"
+  ],
+
+  "data": [
+    {
+      "nameNstate": [
+        1,
+        3,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "어쩌지… 진짜 중요한 약속인데…"
+    },
+    {
+      "nameNstate": [
+        0,
+        2,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "근데 도대체 누굴 만나길래 그러는거야?"
+    },
+    {
+      "nameNstate": [
+        1,
+        3,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "히… 읍! 아무것도 아니야!"
+    },
+    {
+      "nameNstate": [
+        0,
+        2,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "……"
+    },
+    {
+      "nameNstate": [
+        1,
+        3,
+        0
+      ],
+      "name": "<color=#8BC3E7>뿡댕이",
+      "dialog": "……"
+    },
+    {
+      "nameNstate": [
+        0,
+        2,
+        0
+      ],
+      "name": "<color=#D1F1FF>타비",
+      "dialog": "흥! 짐승이나 만나러 가라!"
+    }
+  ]
+}
